@@ -6,7 +6,13 @@
 body {
    background: grey;
    margin: 35px;
-   height: 100px;
+   
+}
+
+.wrapper {
+    width: 60%;
+    position: absolute;
+    left: 20%;
 }
 
 header {
